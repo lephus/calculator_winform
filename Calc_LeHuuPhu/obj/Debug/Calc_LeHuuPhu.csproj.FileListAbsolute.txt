@@ -1,0 +1,10 @@
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\bin\Debug\Calc_LeHuuPhu.exe.config
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\bin\Debug\Calc_LeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\bin\Debug\Calc_LeHuuPhu.pdb
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.csproj.AssemblyReference.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.frmPhu.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.Properties.Resources.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.csproj.GenerateResource.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.csproj.CoreCompileInputs.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Calc_LeHuuPhu\Calc_LeHuuPhu\obj\Debug\Calc_LeHuuPhu.pdb
